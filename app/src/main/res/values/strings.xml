@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkshopProsjekt</string>
+    <string name="image_of_an_cat">Image of an cat</string>
+    <string name="see_image">See image</string>
+    <string name="workshop_app">Workshop App</string>
+    <string name="back_button">Back button</string>
+    <string name="dropdown_menu_button">Dropdown menu button</string>
+    <string name="counter">Counter</string>
+    <string name="home">Home</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkshopProsjekt</string>
+    <string name="see_image">Se bilde</string>
+    <string name="home">Hjem</string>
+    <string name="counter">Teller</string>
+</resources>
